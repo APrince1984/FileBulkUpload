@@ -1,0 +1,6 @@
+@BulkFileUpload.API_HostAddress = http://localhost:5160
+
+GET {{BulkFileUpload.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
